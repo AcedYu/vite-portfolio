@@ -29,7 +29,6 @@ export default function Layout() {
       <footer className="navbar navbar-expand-sm navbar-dark bg-dark text-white py-3 px-3 d-flex justify-content-between align-items-center">
         <h2 className="mb-0">Contact and Links</h2>
         <ul className="navbar-nav flex-row">
-          <li className="nav-item nav-link">(925)-750-0916</li>
           <li className="nav-item">
             <a className="nav-link" href="mailto:alexyu299@hotmail.com">
               alexyu299@hotmail.com

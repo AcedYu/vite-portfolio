@@ -1,12 +1,16 @@
 [
     {
         "company": "theCoderSchool",
-        "logo": "REPLACE LATER",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNtvdS9dXaeT8XMur_7M6YAFSzzbPbS4nBKHm4bUgeNQZdujaqN6vOzrA&s=10",
         "title": "Code Coach",
         "date": "September 2023 - Present",
         "location": "Walnut Creek, CA",
         "tasks": [
-            "ADD THESE LATER"
+            "Deliver 1:1 coding instruction to K - 12 students, adapting pace and teaching style to each student's skill level.",
+            "Teach across a wide range of tools depending on student level — from Scratch and Minecraft Education for beginners, to Unity, Godot, GameMaker, Python/Pygame, and Blender for more advanced students, plus hardware and electronics projects.",
+            "Design individualized learning plans that translate core programming concepts into project-based lessons.",
+            "Track student progress through detailed reports, using that data to continuously refine lesson plans.",
+            "Collaborate with fellow Code Coaches to share teaching strategies and improve curriculum across the program."
         ]
     },
     {
@@ -16,13 +20,12 @@
         "date": "May 2022 - November 2024",
         "location": "New York, NY (Remote)",
         "tasks": [
-            "Demonstrated ability to effectively communicate complex technical concepts in web development technologies such as HTML, CSS, JavaScript, MySQL, MongoDB, and React.js.",
-            "Acquired experience in mentoring and coaching students in these technologies, helping them achieve their goals.",
-            "Showcased expertise in web development through leading classroom discussions and assignments.",
-            "Improved problem-solving and critical thinking skills through assisting students with their projects.",
-            "Developed strong interpersonal and teamwork skills by working closely with other instructors and TAs in a collaborative environment.",
-            "Improved public speaking and presentation skills through leading lessons and group projects.",
-            "Enhanced leadership abilities by serving as a role model for students and helping to create a positive learning environment."
+            "Mentored bootcamp students through building full MERN-stack applications, guiding them from fundamentals to complete, deployed builds.",
+            "Taught web development concepts across HTML, CSS, JavaScript, MySQL, MongoDB, and React.js to learners with varied technical backgrounds.",
+            "Led assignments and classroom discussions covering version control and deployment workflows.",
+            "Reviewed student code and projects, helping debug issues and reinforcing best practices in React and JavaScript.",
+            "Collaborated with fellow instructors and TAs to coordinate lesson plans and share teaching strategies.",
+            "Developed public speaking and presentation skills by regularly leading lessons and group projects."
         ]
     },
     {
@@ -32,13 +35,12 @@
         "date": "December 2021 - March 2021",
         "location": "McLean, VA (Remote)",
         "tasks": [
-            "Worked on the Engineering Field Tools (EFT)  project for the USDA.",
-            "Developed and maintained React-based web applications utilizing TypeScript.",
-            "Collaborated with teams to design, develop, and implement new features.",
-            "Improved coding proficiency and efficiency through hands-on experience with React and TypeScript.",
-            "Assisted in troubleshooting and resolving technical issues in a timely manner.",
-            "Contributed to the development of the company's codebase, resulting in improved performance and maintainability.",
-            "Gained valuable experience in a fast-paced, deadline-driven environment."
+            "Contributed to the USDA's Engineering Field Tools (EFT) project, a mission-critical internal tool used by USDA engineering staff.",
+            "Built and maintained core React components using TypeScript within an existing production codebase.",
+            "Designed intuitive, visually consistent UIs across the application.",
+            "Applied test-driven development (TDD) practices to improve code reliability and maintainability.",
+            "Collaborated with a distributed team to design, develop, and implement new features.",
+            "Troubleshot and resolved technical issues within a fast-paced, deadline-driven environment."
         ]
     },
     {
@@ -48,12 +50,9 @@
         "date": "July 2021 - October 2021",
         "location": "Dulles, VA (Remote)",
         "tasks": [
-            "Acquired experience in developing and maintaining React-based applications.",
-            "Gained proficiency in using React components, state management, and hooks.",
-            "Improved knowledge of JavaScript and its concepts through practical application in React projects.",
-            "Learned best practices for writing clean, reusable, and maintainable code in React.",
-            "Participated in code reviews and learned from feedback to improve coding skills.",
-            "Improved debugging and troubleshooting skills through solving complex technical issues in React applications."
+            "Built and maintained React-based application features, working hands-on with component architecture, state management, and hooks.",
+            "Learned and applied best practices for writing clean, reusable, and maintainable React code.",
+            "Participated in code reviews, incorporating feedback to improve code quality and debugging skills."
         ]
     }
 ]
